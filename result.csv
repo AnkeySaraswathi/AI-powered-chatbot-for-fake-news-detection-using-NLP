@@ -1,0 +1,3 @@
+input,prediction,google_snippets,fact_check
+"NASA successfully deploys the solar sail prototype in space to test next-gen propulsion.
+",❌ Fake,['Not found.'],✅ Found matches on Snopes
