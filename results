@@ -1,0 +1,7 @@
+{
+  "input": "NASA successfully deploys the solar sail prototype in space to test next-gen propulsion.\n",
+  "prediction": "\u274c Fake",
+  "google_snippets": [
+    "Not found."
+  ],
+  "fact_check": "\u2705 Found matches on Snopes"
